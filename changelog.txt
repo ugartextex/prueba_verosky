@@ -15,5 +15,9 @@ Version: 2.0.0
   - Added NodeJS NPM Development version (Pro unlimited & Membership members)
   
 Version: 1.0.0
+<<<<<<< HEAD
   - Initial Release
 shdjfkfkf
+=======
+  - Initial Relsdsddd
+>>>>>>> ugarte2
